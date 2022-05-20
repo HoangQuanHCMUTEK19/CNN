@@ -2,3 +2,4 @@ Data của nhận diện khuôn mặt : https://www.kaggle.com/datasets/nguyenle
 
 Data của nhận diện thức ăn : https://www.kaggle.com/datasets/nguyenlehoangquan/nhandienthucan
 
+Data của nhận diện trái cây  : https://www.kaggle.com/datasets/nguyenlehoangquan/nhandientraicay
